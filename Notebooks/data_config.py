@@ -1,0 +1,5 @@
+DB_NAME = "HR_Employee"
+DB_USER = "postgres"
+DB_PASS = "hexagon"
+DB_HOST = "localhost"
+DB_PORT = "5433"
